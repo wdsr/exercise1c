@@ -18,5 +18,5 @@ dependencies {
     compile project(':conversions')
 
     // Biblioteka zewnętrzna - za pierwszym razem będzie ściągnięta z repozytorium Maven Central, potem już będzie brana z lokalnego dysku.
-    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.4'
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.4'    
 }
