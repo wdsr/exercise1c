@@ -8,8 +8,13 @@
 
 ### Gradle ###
 .gradle/
+build/
 
 ### Eclipse ###
 .project
 .classpath
 .settings/
+bin/
+
+### Runtime stuff ###
+logs/
